@@ -1,0 +1,91 @@
+.header{
+ height:50px;
+ width:100%;
+ position:fixed;
+ top:0;left:0;
+ right:0;
+ background-color:whitesmoke;
+}
+
+
+
+.header .left{
+ float:left;
+ font-size:15px;
+ font-weight:400;
+ padding-left:12px;
+}
+.header .left i{
+ font-size:15px;
+}
+
+.header .center{
+ float:left;
+ padding-left:80px;
+ padding-top:5px;
+}
+
+
+
+
+.header .right{
+ float:right;
+ padding-top:20px;
+ padding-right:20px;
+}
+.header .right i{
+ font-size:22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.headers{
+ width:100%;
+ height:50px;
+ position:relative;
+ top:0;left:0;
+ right:0;
+ background-color:whitesmoke;
+}
+
+
+
+.headers .left{
+ float:left;
+ font-size:14px;
+ font-weight:400;
+ padding-left:12px;
+ padding-top:5px;
+}
+.headers .left i{
+ font-size:14px;
+}
+
+.headers .center{
+ float:left;
+ padding-left:40px;
+ padding-top:4px;
+}
+
+
+
+

@@ -1,0 +1,28 @@
+.panel{
+  padding-top:90px;
+}
+
+
+.content img{
+ width:300px;
+}
+
+.quote{
+ width:350px;
+}
+
+.quote .details{
+ width:290px;
+}
+
+
+
+.quote button{
+ padding:15px;
+ border: none;
+ width:250px;
+ font-weight:bold;
+ background-color:tomato;
+ color:white;
+ border-radius:4px;
+}
